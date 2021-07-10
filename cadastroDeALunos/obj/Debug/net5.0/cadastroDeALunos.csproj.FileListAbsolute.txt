@@ -1,0 +1,16 @@
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\bin\Debug\net5.0\cadastroDeALunos.exe
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\bin\Debug\net5.0\cadastroDeALunos.deps.json
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\bin\Debug\net5.0\cadastroDeALunos.runtimeconfig.json
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\bin\Debug\net5.0\cadastroDeALunos.runtimeconfig.dev.json
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\bin\Debug\net5.0\cadastroDeALunos.dll
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\bin\Debug\net5.0\ref\cadastroDeALunos.dll
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\bin\Debug\net5.0\cadastroDeALunos.pdb
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\cadastroDeALunos.csproj.AssemblyReference.cache
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\cadastroDeALunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\cadastroDeALunos.AssemblyInfoInputs.cache
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\cadastroDeALunos.AssemblyInfo.cs
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\cadastroDeALunos.csproj.CoreCompileInputs.cache
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\cadastroDeALunos.dll
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\ref\cadastroDeALunos.dll
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\cadastroDeALunos.pdb
+C:\Users\gamsw\OneDrive\Área de Trabalho\csharp\cadastroDeAlunos\cadastroDeAlunos\obj\Debug\net5.0\cadastroDeALunos.genruntimeconfig.cache
